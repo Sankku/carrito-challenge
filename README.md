@@ -16,15 +16,15 @@ Para eso tenemos que crear un marketplace para que pueda elegir sus pociones de 
 
 ## Restricciones
 
-1. 🧙‍♂️ solo tiene 3 gemas asi que solo puede comprar pociones por un total de 3 gemas.
-2. Por restricciones gubernamentales solo podemos ofrecerle comprar solo una poción de cada categoría.
-3. 🧝‍♀️ la esposa de 🧙‍♂️ no nos permite venderle múltiples veces la misma poción, y no queremos averiguar que pasa si no la obedecemos.
+1. [x] 🧙‍♂️ solo tiene 3 gemas asi que solo puede comprar pociones por un total de 3 gemas.
+2. [x] Por restricciones gubernamentales solo podemos ofrecerle comprar solo una poción de cada categoría.
+3. [x] 🧝‍♀️ la esposa de 🧙‍♂️ no nos permite venderle múltiples veces la misma poción, y no queremos averiguar que pasa si no la obedecemos.
 
 ## Notas
 
-- Se debe visualizar en el medio de la barra de navegación la cantidad de gemas disponibles que le quedan a 🧙‍♂️ teniendo en cuenta los items que tiene en el carrito.
-- Se debe visualizar en la parte derecha de la barra de navegacion la cantidad de items en el carrito
-- Para realizar el carrito es preferible usar un Context
+- [x] Se debe visualizar en el medio de la barra de navegación la cantidad de gemas disponibles que le quedan a 🧙‍♂️ teniendo en cuenta los items que tiene en el carrito.
+- [x] Se debe visualizar en la parte derecha de la barra de navegacion la cantidad de items en el carrito
+- [x] Para realizar el carrito es preferible usar un Context
 
 ## Rutas
 

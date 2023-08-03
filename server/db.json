@@ -2,43 +2,99 @@
   "productos": [
     {
       "id": 1,
-      "nombre": "HP 500",
-      "precio": 1,
-      "categoria": "Salud",
-      "descripcion": "Sube la vida del mago en 100 unidades",
-      "imagen": "http://localhost:3000/Icon1.png"
+      "name": "HP 500",
+      "price": 1,
+      "category": "Salud",
+      "description": "Sube la vida del mago en 100 unidades",
+      "image": "http://localhost:3000/Icon1.png"
     },
     {
       "id": 2,
-      "nombre": "Veneno somnoliento",
-      "precio": 1,
-      "categoria": "Veneno",
-      "descripcion": "Duerme al enemigo 3 turnos",
-      "imagen": "http://localhost:3000/Icon2.png"
+      "name": "Veneno somnoliento",
+      "price": 1,
+      "category": "Veneno",
+      "description": "Duerme al enemigo 3 turnos",
+      "image": "http://localhost:3000/Icon2.png"
     },
     {
       "id": 3,
-      "nombre": "Escudo de fuego",
-      "precio": 2,
-      "categoria": "Proteccion",
-      "descripcion": "Resiste el daño de un ataque de agua",
-      "imagen": "http://localhost:3000/Icon3.png"
+      "name": "Escudo de fuego",
+      "price": 2,
+      "category": "Proteccion",
+      "description": "Resiste el daño de un ataque de agua",
+      "image": "http://localhost:3000/Icon3.png"
     },
     {
       "id": 4,
-      "nombre": "Vigor shawarma",
-      "precio": 3,
-      "categoria": "Estamina",
-      "descripcion": "Aumenta 25 la estamina pero se pierde el siguiente turno en el baño por una diarrea feroz",
-      "imagen": "http://localhost:3000/Icon4.png"
+      "name": "Vigor shawarma",
+      "price": 3,
+      "category": "Estamina",
+      "description": "Aumenta 25 la estamina pero se pierde el siguiente turno en el baño por una diarrea feroz",
+      "image": "http://localhost:3000/Icon4.png"
     },
     {
       "id": 5,
-      "nombre": "Piel de piedra",
-      "precio": 1,
-      "categoria": "Proteccion",
-      "descripcion": "Protege de los efectos de los venenos por los próximos 3 turnos",
-      "imagen": "http://localhost:3000/Icon5.png"
+      "name": "Piel de piedra",
+      "price": 1,
+      "category": "Proteccion",
+      "description": "Protege de los efectos de los venenos por los próximos 3 turnos",
+      "image": "http://localhost:3000/Icon5.png"
+    },
+    {
+      "id": 6,
+      "name": "Corazon de Roca",
+      "price": 1,
+      "category": "Salud",
+      "description": "Te regenera un 25% de tu vida pero te vuelves considerablemente mas lento",
+      "image": "http://localhost:3000/Icon6.png"
+    },
+    {
+      "id": 7,
+      "name": "Veneno mortal",
+      "price": 2,
+      "category": "Veneno",
+      "description": "Envenena al enemigo 3 turnos",
+      "image": "http://localhost:3000/Icon7.png"
+    },
+    {
+      "id": 8,
+      "name": "Escudo divino",
+      "price": 1,
+      "category": "Proteccion",
+      "description": "Te otorga un escudo que bloquea los 3 ataques siguientes",
+      "image": "http://localhost:3000/Icon8.png"
+    },
+    {
+      "id": 9,
+      "name": "Pocion de Sabiduria",
+      "price": 3,
+      "category": "Mana",
+      "description": "Te otorga 250 mana",
+      "image": "http://localhost:3000/Icon9.png"
+    },
+    {
+      "id": 10,
+      "name": "Lagrima de diosa",
+      "price": 3,
+      "category": "Proteccion",
+      "description": "Te otorga inmunidad por 15s (no te deja realizar ataques)",
+      "image": "http://localhost:3000/Icon10.png"
+    },
+    {
+      "id": 11,
+      "name": "Pocion de corrupcion",
+      "price": 2,
+      "category": "Veneno",
+      "description": "Corroe cualquier tipo de elemento",
+      "image": "http://localhost:3000/Icon11.png"
+    },
+    {
+      "id": 12,
+      "name": "Escudo oscuro",
+      "price": 1,
+      "category": "Proteccion",
+      "description": "Te otorga un escudo que bloquea los siguientes 3 ataques de oscuridad",
+      "image": "http://localhost:3000/Icon12.png"
     }
   ],
   "compras": []
